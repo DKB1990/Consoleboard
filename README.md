@@ -6,10 +6,10 @@ To generate .exe file, please follow these instructions:
 1. Take the code on your local
 2. Build the code.
 3. Go to the main folder and run this command: 
-**dotnet publish -r win-x64 -c Release /p:PublishSingleFile=true
+*dotnet publish -r win-x64 -c Release /p:PublishSingleFile=true
 
 And then, perform these steps:
-1. Clone the repository **https://github.com/DKB1990/Scoreboard
+1. Clone the repository *https://github.com/DKB1990/Scoreboard
 2. Run the solution in your local. 
 3. You're done!....
 
